@@ -1,7 +1,7 @@
 public class SharpenYourPencil {
     public static void main(String[] args) {
         /* ---------------------------------- WHILE LOOPS ------------------------------------------------ */
-        // Output: must be "DooBeeDooBeeDoo"
+        // Output: must be "DooBeeDooBeeDo"
 
         int x = 1; // Initialize x as 1
 
