@@ -1,7 +1,7 @@
 public class CodeMagnets {
     public static void main(String[] args) {
         /* ----------------------- Code Magenets Exercise ---------------*/
-        // INSTRUCTIONS: sort out the code snippets so that the output is the same as below
+        // TASK: sort out the code snippets so that the output is the same as below
         // Expect output to be a-b c-d in command line.
 
         // 1. is referred to as the first iteration of the loop.

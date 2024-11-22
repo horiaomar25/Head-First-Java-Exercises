@@ -1,4 +1,4 @@
-public class SharpenYourPencil {
+public class LoopsExercise {
     public static void main(String[] args) {
         /* ---------------------------------- WHILE LOOPS ------------------------------------------------ */
         // Output: must be "DooBeeDooBeeDo"
